@@ -35,6 +35,8 @@ android {
     lintOptions {
         disable 'InvalidPackage'
     }
+
+    namespace 'com.di1shuai.platform_device_id'
 }
 
 dependencies {
